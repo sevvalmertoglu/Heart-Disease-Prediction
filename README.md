@@ -74,3 +74,7 @@ Bu, kalp hastalığı veri setini analiz etmek için kullanılan bir Flask uygul
 
 ## Kalp Hastalığı Veri Analizi Python Kodu Linki
 [Veri Analizi Python Kodu](https://www.kaggle.com/code/sevvalmertoglu/veri-analizi/notebook)
+
+## Proje Sunumu Linki
+[Sunum Linki](https://drive.google.com/file/d/1ghoJ9hUbEVPgi8Z2UD4rg-L24BR-ZGmn/view?usp=sharing)
+
