@@ -10,11 +10,11 @@ Bu, kalp hastalığı veri setini analiz etmek için kullanılan bir Flask uygul
 - **Sayısal Değişken Analizi**: Sayısal değişkenler için tanımlayıcı istatistikleri sağlar.
 - **Hedef Değişken Analizi**: Hedef değişkeni (hem kategorik hem de sayısal) analiz eder.
 - **Eksik Değer İşlemleri**: Eksik değerleri belirler ve görüntüler.
-- **Kodlama**: Label Encoding uygular.
-- **Özellik Ölçeklendirme**: Özellikleri StandardScaler kullanarak ölçeklendirir.
+- **Kodlama**: Label Encoding, One-hot Encoding uygular.
+- **Özellik Ölçeklendirme**: Özellikleri RobustScaler kullanarak ölçeklendirir.
 - **Korelasyon Analizi**: Numerik verileri kullanarak Korelasyon analiz yapılır. 
 - **Aykırı Değer Analizi**: IQR yöntemi ile aykırı değerleri tespit eder.
-- **Makine Öğrenimi**: Random Forest yöntemi ile eğitildi, sınıflandırılma paranetreleri ve confusion matrixine bakıldı.
+- **Makine Öğrenimi**: Random Forest yöntemi ile eğitildi, sınıflandırılma parametreleri ve confusion matrixine bakıldı.
 
 ## Kurulum
 
