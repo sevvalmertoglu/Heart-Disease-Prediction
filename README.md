@@ -20,7 +20,7 @@ Bu, kalp hastalığı veri setini analiz etmek için kullanılan bir Flask uygul
 
 1. Depoyu klonlayın:
      
-*  git clone https://github.com/betulaltunl/Heart-Disease-Prediction.git
+*  git clone https://github.com/sevvalmertoglu/Heart-Disease-Prediction.git
 2. Proje dizinine gidin:
  
    
