@@ -78,6 +78,10 @@ Bu, kalp hastalığı veri setini analiz etmek için kullanılan bir Flask uygul
 ## Proje Sunumu Linki
 [Sunum Linki](https://drive.google.com/file/d/1ghoJ9hUbEVPgi8Z2UD4rg-L24BR-ZGmn/view?usp=sharing)
 
+## Proje Raporu Linki
+[Rapor Linki](https://drive.google.com/file/d/1lVAUAcO9KZwYjsq37uVS9d8pLr3VkbBv/view?usp=sharing)
+
+
 ## Proje Görselleri
 <img width="600" alt="Ekran Resmi 2024-06-08 11 37 11" src="https://github.com/sevvalmertoglu/Heart-Disease-Prediction/assets/79595517/54adeaac-4cca-4649-81d8-4999ebaaf166">
 <img width="600" alt="Ekran Resmi 2024-06-08 11 37 36" src="https://github.com/sevvalmertoglu/Heart-Disease-Prediction/assets/79595517/8f777b96-bb4d-4d51-b088-8b4c8da26caf">
